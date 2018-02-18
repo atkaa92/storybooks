@@ -1,29 +1,29 @@
 body {
-	display: flex;
-	min-height: 100vh;
-	flex-direction: column;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 main {
-	flex: 1 0 auto;
+  flex: 1 0 auto;
 }
 
 .nav-wrapper .fa-bars{
-	font-size: 30px;
+  font-size:25px;
 }
 
 footer{
-	margin-top: 20px;
+  margin-top:20px;
 }
 
 .story-text{
-	height: 120px;
+  height:120px;
 }
 
 .dash-status{
-	text-transform: capitalize;
+  text-transform: capitalize;
 }
 
-.delete-form{
-	display: inline;
+#delete-form{
+  display:inline;
 }

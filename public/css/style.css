@@ -24,6 +24,6 @@ footer{
   text-transform: capitalize;
 }
 
-#delete-form{
+.delete-form{
   display:inline;
 }
